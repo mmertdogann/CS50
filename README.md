@@ -6,8 +6,8 @@ Solutions of CS50 Spring 2021 problem sets and labs for each week shown below.
 
 ## Problem Sets
 
-- NA -> Scratch
-  - NA
+- pSet0, 2021 -> Scratch
+  - [PingPong.sb3](./problems/pSet0/PingPong.sb3)
 
 ## Labs
 
