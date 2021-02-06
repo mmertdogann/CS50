@@ -2,7 +2,7 @@
 
 >Course is followed from CS50's [website](https://cs50.harvard.edu/x/2021/)
 
-Solutions of CS50 Spring 2021 problem sets and labs for each week shown below.
+Solutions of the CS50 **Spring 2021** problem sets and labs for each week shown below.
 
 ## Problem Sets
 
