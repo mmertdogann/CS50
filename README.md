@@ -13,3 +13,7 @@ Solutions of the CS50 **Spring 2021** problem sets and labs for each week shown 
 
 - week 0
   - NA
+- week 1
+  - lab1
+    - [hello](./labs/lab1/hello)
+  
