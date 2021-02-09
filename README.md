@@ -13,4 +13,5 @@ Solutions of the CS50 **Spring 2021** problem sets and labs for each week shown 
 
 - lab1
   - [hello](./labs/lab1/hello)
+  - [population](./labs/lab1/population)
   
