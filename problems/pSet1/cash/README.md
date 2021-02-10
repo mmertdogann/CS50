@@ -29,4 +29,4 @@ Change owed: 0.41
 4
 ```
 
-Read the instructions [here](https://cs50.harvard.edu/x/2021/psets/1/cash/)
+>Read the instructions [here](https://cs50.harvard.edu/x/2021/psets/1/cash/)
