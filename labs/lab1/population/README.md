@@ -19,4 +19,4 @@ End size: 18
 Years: 8
 ```
 
->Read the implementation details here [here](https://cs50.harvard.edu/x/2021/labs/1/population/)
+>Read the implementation details [here](https://cs50.harvard.edu/x/2021/labs/1/population/)
