@@ -1,0 +1,4 @@
+1. prompt user for input integer between 1 and 8 inclusive
+2. Re prompt the user if they don't input positive integer between 1 and 8 inclusive
+3. Iterate from 0 through height:
+    1. On iteration i, print i hashes and then a newline
