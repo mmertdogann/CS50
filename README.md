@@ -2,16 +2,16 @@
 
 >Course is followed from CS50's [website](https://cs50.harvard.edu/x/2021/)
 
-Solutions of the CS50 **Spring 2021** problem sets and labs for each week shown below.
+Solutions of the CS50 2021 problem sets and labs for each week shown below
 
 ## Problem Sets
 
-- pSet0, 2021 -> Scratch
+- Problem Set 0
   - [PingPong.sb3](./problems/pSet0/PingPong.sb3)
 
 ## Labs
 
-- lab1
+- Lab 1
   - [hello](./labs/lab1/hello)
   - [population](./labs/lab1/population)
   
