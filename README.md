@@ -1,4 +1,4 @@
-# CS50 - Introduction To Computer Science 📚 💻
+# CS50 - Introduction To Computer Science
 
 >Course is followed from CS50's [website](https://cs50.harvard.edu/x/2021/)
 
